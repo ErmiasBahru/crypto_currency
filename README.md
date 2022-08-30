@@ -1,4 +1,4 @@
-# crypto currency info scraper
+# cryptocurrency info scraper
 
 Requirements:
 
